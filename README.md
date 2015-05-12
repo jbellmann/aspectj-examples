@@ -5,4 +5,4 @@ Some small examples how to use AspectJ with Maven.
 
 try again
 
-trigger, and trigger again
+trigger, and trigger again and trigger again
