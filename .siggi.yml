@@ -1,3 +1,5 @@
 language: java
 
-script: mvn clean test
+script:
+    - mvn dependency:resolve
+    - mvn clean test
