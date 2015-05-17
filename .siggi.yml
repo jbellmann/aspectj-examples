@@ -1,5 +1,5 @@
 language: java
 
 script:
-    - mvn dependency:tree > deps.txt
-    - mvn clean test
+    - mvn install -Dmaven.test.skip
+    - mvn test
