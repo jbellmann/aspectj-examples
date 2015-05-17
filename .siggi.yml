@@ -1,5 +1,5 @@
 language: java
 
 script:
-    - mvn dependency:resolve
+    - mvn dependency:tree > deps.txt
     - mvn clean test
