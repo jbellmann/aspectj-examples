@@ -3,3 +3,6 @@ language: java
 script:
     - mvn install -Dmaven.test.skip
     - mvn test
+
+box:
+    type: jfy
