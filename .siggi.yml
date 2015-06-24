@@ -1,8 +1,8 @@
 language: java
 
 script:
-    - mvn install -Dmaven.test.skip
-    - mvn test
+    - mvn install --batch-mode -Dmaven.test.skip
+    - mvn test --batch-mode
 
 box:
     type: jfy
