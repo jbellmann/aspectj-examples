@@ -9,4 +9,4 @@ trigger, and trigger again and trigger again and again and again and again and a
 
 a mail should be sent after this update ;-)
 
-trigger build and again, maybe it works now
+trigger build and again, maybe it works now again and again
