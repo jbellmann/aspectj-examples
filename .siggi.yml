@@ -4,5 +4,5 @@ script:
     - mvn install --batch-mode -Dmaven.test.skip
     - mvn test --batch-mode
 
-box:
-    type: jfy
+#box:
+#    type: jfy
