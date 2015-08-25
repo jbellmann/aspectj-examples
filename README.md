@@ -11,4 +11,4 @@ a mail should be sent after this update ;-)
 
 Trigger build ;-)
 
-and again, again
+now all slaves should come up with new ID-format
